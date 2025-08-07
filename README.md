@@ -1,7 +1,7 @@
 # Quiz ConsoleApp
 ## Atividade Ponto Extra
 
-##Integrantes
+## Integrantes
 ## Thiago Jardim de Oliveira
 ## Pedro Henrique Pedrosa Tavares
 ## João Arthur Pajaro
